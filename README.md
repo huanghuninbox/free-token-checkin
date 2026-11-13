@@ -2,7 +2,9 @@
 
 > 多平台 AI 编程工具的**每日签到 + 免费额度确认**工具集。签到领积分、计数器盯用量、一张表查清「每个端口还剩多少、什么时候过期」。
 
-English: A toolkit for daily check-in and free-tier quota tracking of AI coding tools (WorkBuddy / Trae / DuMate / Cloudflare Workers AI / Zhipu GLM ...). Check in to earn points, count usage locally, and know exactly what's left and when it expires.
+English: free-token-checkin is a toolset that automates daily check-ins for multiple AI coding platforms, including WorkBuddy, Trae, and DuMate. It also provides a local usage counter for Cloudflare Workers AI and Zhipu resource packs, filling the gap left by the absence of official balance APIs. Built-in expiration alerts warn you before your points lapse, so you never waste unused quota.
+
+> （本段英文简介由 buddy 端 glm-5.3-flash 生成——免费算力实操示范，2026-11-07）
 
 ## 覆盖平台矩阵
 
